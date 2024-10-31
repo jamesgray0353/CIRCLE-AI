@@ -23,15 +23,15 @@ Submission for Hackathon: Generative AI World Cup 2024 Hosted by Databricks
   - Recycling Companies
   - Research Institutions
 
-## Technologies Used
+## Workflow
+
+![Workflow](images/workflow.png)
+
+## Technologies
 
 - **Databricks:** For running AI functions and managing data.
 - **PySpark:** To handle large-scale data processing.
 - **Databricks Dashboard:** The primary output is provided as an HTML export for user interaction.
-
-## Workflow
-
-![Workflow](images/workflow.png)
 
 ## Patent Data
 
@@ -46,6 +46,9 @@ Submission for Hackathon: Generative AI World Cup 2024 Hosted by Databricks
 2. **Import Notebooks:**
    - Upload the provided notebooks and necessary data files to your Databricks environment.
 
+3. **Run Notebooks:**
+   - Run notebooks including filtering, classification, material extraction and visualisation (as shown in the workflow above).
+   
 ## Usage
 
 - **Interactive Dashboard:**
@@ -55,10 +58,7 @@ Submission for Hackathon: Generative AI World Cup 2024 Hosted by Databricks
   - Utilize the provided notebooks to run analyses on different technology use cases as per your needs.
 
 ## Demo / Screenshots
-
-
-![Workflow Flowchart Placeholder](link_to_flowchart_image)
-![Dashboard Demo Placeholder](link_to_dashboard_image)
+![Demo](images/demo.png)
 
 ## Team Members
 
@@ -81,7 +81,3 @@ Hosted by **Databricks**
 - Automate the analysis process for various technologies.
 - Standardize results and enhance analytical capabilities.
 - Conduct in-depth material analyses and suggest optimal material replacements.
-
-## Acknowledgments
-
-No specific acknowledgments at this time.
