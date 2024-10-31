@@ -3,7 +3,7 @@ Submission for Hackathon: Generative AI World Cup 2024 Hosted by Databricks
 
 ## Overview
 
-**CIRCLE-AI** is the Circular Innovation Recycling Classification & Learning Engine, designed to revolutionize how we analyze patents and assess material recyclability. By leveraging advanced AI technologies, CIRCLE-AI automates complex processes and provides insightful data that can drive innovation in recycling and materials management.
+**CIRCLE-AI** is the Circular Innovation Recycling Classification & Learning Engine, designed to revolutionize how we assess material recyclability in emerging technologies. By leveraging AI and publicly available patent data, CIRCLE-AI automates complex processes and provides insightful data that can drive innovation in recycling and materials management.
 
 ## Features
 
@@ -29,6 +29,14 @@ Submission for Hackathon: Generative AI World Cup 2024 Hosted by Databricks
 - **PySpark:** To handle large-scale data processing.
 - **Databricks Dashboard:** The primary output is provided as an HTML export for user interaction.
 
+## Workflow
+
+![Workflow](images/workflow.png)
+
+## Patent Data
+
+- https://www.kaggle.com/competitions/uspto-explainable-ai/data
+
 ## Installation Instructions
 
 1. **Set Up Databricks:**
@@ -46,17 +54,9 @@ Submission for Hackathon: Generative AI World Cup 2024 Hosted by Databricks
 - **Custom Projects:**
   - Utilize the provided notebooks to run analyses on different technology use cases as per your needs.
 
-## Contributing
-
-Currently, there are no specific guidelines for contributions.
-
-## License
-
-This project is not licensed under a specific license.
-
 ## Demo / Screenshots
 
-![Logo Placeholder](link_to_logo_image)
+
 ![Workflow Flowchart Placeholder](link_to_flowchart_image)
 ![Dashboard Demo Placeholder](link_to_dashboard_image)
 
